@@ -1,0 +1,5 @@
+We can characterize audio aura by average values of valence, danceability and energy. Average danceability is 0.71646,
+which means that songs are generally danceable. Average energy is 0.65906 and is above average. Valence is 0.484443 and
+is less positive.
+
+Limitations of this method is that sample size is too constricted by the year, it doesn't account users change in preference.
